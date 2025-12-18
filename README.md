@@ -22,7 +22,9 @@
 ## 📌 Projects (Work in Progress 🚧)
 I’m currently working on end-to-end data engineering projects. Here’s what’s coming up soon:
   
-1. **Sales Anomaly Detection (PySpark + Databricks ML)**  
+1. **Sales Anomaly Detection (PySpark + Databricks ML)**
+2. **Data Pipeline Health Check & Data Quality Validator(Shell)**
+
 
 
 👉 Stay tuned – I’ll upload repos with full READMEs, architecture diagrams, and notebooks.
