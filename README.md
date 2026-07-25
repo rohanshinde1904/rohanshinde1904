@@ -56,7 +56,7 @@ I enjoy writing about database internals, query optimization, and data engineeri
 ### Latest Articles
 
 - 📝 **Why DuckDB Is So Fast — A Deep Dive Into Its Internals**
-- 📝 **Understanding Query Optimizers** *(Coming Soon)*
+- 📝 **Understanding Query Optimizers**
 
 📖 Medium:  
 **https://medium.com/@shinderohan1904**
